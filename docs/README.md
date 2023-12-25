@@ -6,7 +6,7 @@ actionLink: /intro/
 footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 ---
 
-**Виконав(-ла):** 
+**Виконав:** 
 
 *студент 2-го курсу, групи ІМ-23*<span padding-right:5em></span> **Гарачун Олександр, @aleksandrgarachun**
 
